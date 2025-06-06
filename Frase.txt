@@ -1,0 +1,7 @@
+Texto : o cachorro correu correu correu no parque enquanto brincava brincava brincava com a bola o cachorro pulava pulava pulava o cachorro latia latia latia o cachorro corria corria corria atrás da bola da bola da bola o cachorro estava realmente realmente realmente muito animado o cachorro é um animal muito muito muito leal o cachorro é um amigo fiel fiel fiel o cachorro é o melhor amigo do homem do homem do homem
+
+
+CODIFI : cachorro brincava pulava corria latia
+
+
+DECODI : cachorro brincava pulava corria latia
