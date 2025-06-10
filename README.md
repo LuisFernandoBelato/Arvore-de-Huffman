@@ -1,4 +1,4 @@
-# 📂 Codificador/Decodificador Huffman por Palavras em C \ ***5º Termo - Pesquisa e Ordenação***
+# 📂 Codificador/Decodificador Huffman por Palavras em C \ ***4º Termo - Estruturas de Dados II***
 
 Este projeto implementa o algoritmo de codificação de Huffman para comprimir e descomprimir frases com base na frequência das palavras (e espaços), conforme as especificações do trabalho de **Estruturas de Dados II**. O projeto consiste em dois programas C++ separados: um codificador (Huffman Parte 1.cpp) e um decodificador (Huffman Parte 2.cpp).
 
